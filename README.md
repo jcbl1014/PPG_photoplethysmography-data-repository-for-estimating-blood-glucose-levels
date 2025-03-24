@@ -13,7 +13,7 @@ the information related to each topic is summarized as follows:
 
 ·Subject: Name of the record associated with each individual, 'Subj_##" (where ## is each subject's number).
 
-·Age: a range of age ranging from 21 years old to a maximum of 72 years old 
+·Age: A range of age ranging from 21 years old to a maximum of 72 years old 
 
 ·Gender: Male or Female, "M" if male and "F" female 
 
