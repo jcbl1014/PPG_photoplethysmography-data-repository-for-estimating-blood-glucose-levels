@@ -39,7 +39,7 @@ This dataset contains .CSV files.
 
 ## Database Description
 The database uploaded to this repository consists of:
-Folder 1: PPG records
-Folder 2: Age, gender, and blood glucose level characteristics by subject
-Excel file: Excel file with relevant data from the 23 subjects
-Glucose_info: Excel table with glucose characteristics by subject with quick display
+- Folder 1: PPG records
+- Folder 2: Age, gender, and blood glucose level characteristics by subject
+- Excel file: Excel file with relevant data from the 23 subjects
+- Glucose_info: Excel table with glucose characteristics by subject with quick display
