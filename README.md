@@ -39,7 +39,28 @@ This dataset contains .CSV files.
 
 ## Database Description
 The database uploaded to this repository consists of:
-- Folder 1: PPG records
-- Folder 2: Age, gender, and blood glucose level characteristics by subject
-- Excel file: Excel file with relevant data from the 23 subjects
-- Glucose_info: Excel table with glucose characteristics by subject with quick display
+
+**Folder 1: PPG_Subj_CSV**
+Contains 23 .CSV files with photoplethysmographic (PPG) signal records for each subject. Each file presents information organized with the following vectors:
+
+t: Values ​​related to the time vector
+y1: Values ​​obtained from the forehead signal
+y2: Values ​​obtained from the ear signal
+y3: Values ​​obtained from the index finger signal
+
+**Folder 2: Glucose_Info_Subjects_CSV**
+Contains 23 .CSV files that provide annotations regarding subject characteristics, including age, gender, and glucose level.
+
+**Excel file: Characteristics_Glucose_Subjects**
+Attachment: Excel .xlsx file containing subject characteristics, as well as the diagnosis of diabetes presence and type. This information may be useful to the reader for an in-depth study of the subjects. It can be downloaded by clicking **View Raw**.
+
+**Glucose_information.md**
+Quick view of an Excel table with subject characteristics and diagnoses.
+
+All files found can be downloaded individually by clicking on the download icon.
+
+## Bibliographic References
+[1] Hantzidiamantis, P. J., Awosika, A. O., & Lappin, S. L. (2024). Physiology, Glucose. En StatPearls. StatPearls Publishing. Recuperado de https://www.ncbi.nlm.nih.gov/books/NBK545201/
+[2] Mayo Clinic. (2023). Hyperglycemia: Symptoms and causes. https://www.mayoclinic.org/es/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631
+
+
