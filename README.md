@@ -32,6 +32,19 @@ Glucose is a 6-carbon structure with the chemical formula C6H12O6. Carbohydrates
 
 Although the body requires moderate amounts of glucose, the presence of excessively high (hyperglycemia) or low (hypoglycemia) levels in the blood can significantly increase the risk of serious health complications, leading to a life-threatening disorder called diabetic coma that causes loss of consciousness. [2]
 
+Normal levels for people with and without diabetes are presented below:
+
+**Valores normales personas sin diabetes**
+| ** Before eating** | ** 2H After eating**  | 
+|-------------|:--------:|:----------:|:----------------:|
+| 70- 110 mg/dL  | Menos de 140 mg/dL       | 
+
+**Valores normales personas con diabetes**
+| ** Before eating** | ** 2H After eating**  | 
+|-------------|:--------:|:----------:|:----------------:|
+| 80- 130 mg/dL  | Menos de 180 mg/dL       | 
+
+
 ## Data format
 This dataset contains .CSV files.
 
