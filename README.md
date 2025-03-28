@@ -82,4 +82,7 @@ All files found can be downloaded individually by clicking on the download icon.
 [1] Hantzidiamantis, P. J., Awosika, A. O., & Lappin, S. L. (2024). Physiology, Glucose. En StatPearls. StatPearls Publishing. Recuperado de https://www.ncbi.nlm.nih.gov/books/NBK545201/
 [2] Mayo Clinic. (2023). Hyperglycemia: Symptoms and causes. https://www.mayoclinic.org/es/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631
 
+## File Availability
+Files can be downloaded individually via folders and in groups via this .zip file.
+
 
