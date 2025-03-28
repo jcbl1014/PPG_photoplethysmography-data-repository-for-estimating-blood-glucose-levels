@@ -34,13 +34,13 @@ Although the body requires moderate amounts of glucose, the presence of excessiv
 
 Normal levels for people with and without diabetes are presented below:
 
-**Valores normales personas sin diabetes**
+**Normal Values ​​For People Without Diabetes**
 
 | ** Before eating** | ** 2H After eating**  | 
 |-------------|:--------:|
 | 70- 110 mg/dL  | Menos de 140 mg/dL       | 
 
-**Valores normales personas con diabetes**
+**Normal values ​​for people with diabetes**
 
 | ** Before eating** | ** 2H After eating**  | 
 |-------------|:--------:|
