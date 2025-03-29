@@ -92,6 +92,11 @@ This dataset contains .CSV files.
 [2] Mayo Clinic. (2023). Hyperglycemia: Symptoms and causes. https://www.mayoclinic.org/es/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631
 
 ## File Availability
+
+Total uncompressed size (5,15 MB)
+
 Files can be downloaded individually via folders and in groups via this .zip file.
 
+- Access files 
+[PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip](https://github.com/user-attachments/files/19514847/PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip) (1.42 MB)
 
