@@ -60,9 +60,9 @@ The database uploaded to this repository consists of:
 Contains 23 .CSV files with photoplethysmographic (PPG) signal records for each subject. Each file presents information organized with the following vectors:
 
 - t: Values ​​related to the time vector
-- y1: Values ​​obtained from the forehead signal
-- y2: Values ​​obtained from the ear signal
-. y3: Values ​​obtained from the index finger signal
+- y: Values ​​obtained from the forehead signal
+- y1: Values ​​obtained from the ear signal
+. y2: Values ​​obtained from the index finger signal
 
 **Folder 2: Glucose_Info_Subjects_CSV**
 
