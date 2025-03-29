@@ -97,6 +97,6 @@ Total uncompressed size (5,15 MB)
 
 Files can be downloaded individually via folders and in groups via this .zip file.
 
-- Access files 
+
 [PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip](https://github.com/user-attachments/files/19514847/PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip) (1.42 MB)
 
