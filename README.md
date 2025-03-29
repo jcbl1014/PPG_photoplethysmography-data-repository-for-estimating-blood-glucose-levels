@@ -65,15 +65,15 @@ All files found can be downloaded individually by clicking on the download icon.
 The signals of 23 subjects (11 women and 12 men) ranging in age from 21 to 72 years, respectively, were analyzed. Additionally, notes regarding subject characteristics (age, gender, blood glucose level) were recorded. Detailed information on each subject is presented in the file Characteristics_Glucose_Subjects .xlsx. 
 the information related to each topic is summarized as follows:
 
--Subject: Name of the record associated with each individual, 'Subj_##" (where ## is each subject's number).
+- Subject: Name of the record associated with each individual, 'Subj_##" (where ## is each subject's number).
 
--Age: A range of age ranging from 21 years old to a maximum of 72 years old 
+- Age: A range of age ranging from 21 years old to a maximum of 72 years old 
 
--Gender: Male or Female, "M" if male and "F" female 
+- Gender: Male or Female, "M" if male and "F" female 
 
--Diabetic: Yes, for the one who is diabetic and not, for the one who is not 
+- Diabetic: Yes, for the one who is diabetic and not, for the one who is not 
 
--Type of diabetes: Diabetic, Prediabetic and Not applicable 
+- Type of diabetes: Diabetic, Prediabetic and Not applicable 
 
 **Note:** To improve the reader experience, a Markdown file called [Glucose_Information.md] has been added, which allows for quick viewing of the data table.
 
