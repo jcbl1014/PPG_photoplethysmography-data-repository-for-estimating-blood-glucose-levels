@@ -62,7 +62,7 @@ Contains 23 .CSV files with photoplethysmographic (PPG) signal records for each 
 - t: Values ​​related to the time vector
 - y: Values ​​obtained from the forehead signal
 - y1: Values ​​obtained from the ear signal
-. y2: Values ​​obtained from the index finger signal
+- y2: Values ​​obtained from the index finger signal
 
 **Folder 2: Glucose_Info_Subjects_CSV**
 
