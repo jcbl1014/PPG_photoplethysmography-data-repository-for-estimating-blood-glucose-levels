@@ -11,6 +11,34 @@ https://github.com/jcbl1014/PPG_photoplethysmography-data-repository-for-estimat
 ## Study data
 Data were obtained using the photoplethysmography (PPG) reflection method, recording signals from the forehead, ear, and index finger of 23 subjects.
 
+## Database Description
+The database uploaded to this repository consists of:
+
+**Folder 1: PPG_Subj_CSV**
+
+Contains 23 .CSV files with photoplethysmographic (PPG) signal records for each subject. Each file presents information organized with the following vectors:
+
+- t: Values ​​related to the time vector
+- y: Values ​​obtained from the forehead signal
+- y1: Values ​​obtained from the ear signal
+. y2: Values ​​obtained from the index finger signal
+
+**Folder 2: Glucose_Info_Subjects_CSV**
+
+Contains 23 .CSV files that provide annotations regarding subject characteristics, including age, gender, and glucose level.
+
+**Excel file: Characteristics_Glucose_Subjects**
+
+Attachment: Excel .xlsx file containing subject characteristics, as well as the diagnosis of diabetes presence and type. This information may be useful to the reader for an in-depth study of the subjects. It can be downloaded by clicking **View Raw**.
+
+**Glucose_information.md**
+
+Quick view of an Excel table with subject characteristics and diagnoses.
+
+All files found can be downloaded individually by clicking on the download icon.
+
+
+
 ## Description of Subjects
 The signals of 23 subjects (11 women and 12 men) ranging in age from 21 to 72 years, respectively, were analyzed. Additionally, notes regarding subject characteristics (age, gender, blood glucose level) were recorded. Detailed information on each subject is presented in the file Characteristics_Glucose_Subjects .xlsx. 
 the information related to each topic is summarized as follows:
@@ -52,31 +80,8 @@ This dataset contains .CSV files.
 
 .CSV files are text files with comma-separated data that allow for various functions such as storage, compatibility, simplicity, and efficiency. The CSV format allows you to save lists and tables of any length, and can also be read in Excel, among other things, making it an excellent choice for a repository.
 
-## Database Description
-The database uploaded to this repository consists of:
 
-**Folder 1: PPG_Subj_CSV**
 
-Contains 23 .CSV files with photoplethysmographic (PPG) signal records for each subject. Each file presents information organized with the following vectors:
-
-- t: Values ​​related to the time vector
-- y: Values ​​obtained from the forehead signal
-- y1: Values ​​obtained from the ear signal
-- y2: Values ​​obtained from the index finger signal
-
-**Folder 2: Glucose_Info_Subjects_CSV**
-
-Contains 23 .CSV files that provide annotations regarding subject characteristics, including age, gender, and glucose level.
-
-**Excel file: Characteristics_Glucose_Subjects**
-
-Attachment: Excel .xlsx file containing subject characteristics, as well as the diagnosis of diabetes presence and type. This information may be useful to the reader for an in-depth study of the subjects. It can be downloaded by clicking **View Raw**.
-
-**Glucose_information.md**
-
-Quick view of an Excel table with subject characteristics and diagnoses.
-
-All files found can be downloaded individually by clicking on the download icon.
 
 ## Bibliographic References
 [1] Hantzidiamantis, P. J., Awosika, A. O., & Lappin, S. L. (2024). Physiology, Glucose. En StatPearls. StatPearls Publishing. Recuperado de https://www.ncbi.nlm.nih.gov/books/NBK545201/
