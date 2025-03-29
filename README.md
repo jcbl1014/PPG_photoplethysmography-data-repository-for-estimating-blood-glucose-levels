@@ -19,13 +19,13 @@ Normal levels for people with and without diabetes are presented below:
 
 | ** Before Eating** | ** 2H After Eating**  | 
 |-------------|:--------:|
-| 70- 110 mg/dL  | Menos de 140 mg/dL        | 
+| 70- 110 mg/dL  | Less than 140 mg/dL        | 
 
 **Normal values ​​for people with diabetes**
 
 | ** Before Eating** | ** 2H After Eating**  | 
 |-------------|:--------:|
-| 80- 130 mg/dL  | Menos de 180 mg/dL        | 
+| 80- 130 mg/dL  | Less than 180 mg/dL        | 
 
 
 
